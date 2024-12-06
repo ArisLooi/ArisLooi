@@ -1,11 +1,16 @@
-<h1 align="left">Hi there👋, I'm Aris, a full stack developer from Malaysia. </h1>
+<h2 align="left">Hi there👋, I'm Aris, a full stack developer from Malaysia. </h2>
 
+<h3>💡 A Bit About Me </h3>
+With over five years of professional experience in market research, financial analysis, and strategic business development, I bring a unique perspective to software development. 
 
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Skills Section ------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<h3>🌱 Current Focus </h3>
+<li>Building dynamic web applications.</li> 
+<li>Mastering responsive design and efficient coding practices.</li> 
+<li>Exploring how tech can streamline financial planning and decision-making.</li> 
 
-# Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
+<!--- -- Skills Section ----- -->
+
+## Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="30"> 
 
 | Category        | Skills        |
 |-----------------|---------------|
@@ -23,3 +28,5 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <br>
+
+🤝 I’m always open to collaboration, learning, and connecting with like-minded individuals. Whether you're a fellow developer, mentor, or someone with an exciting idea—feel free to reach out!
