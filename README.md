@@ -1,7 +1,7 @@
 <h2 align="left">Hi there👋, I'm Aris, a full stack developer from Malaysia. </h2>
 
 <h3>💡 A Bit About Me </h3>
-With over five years of professional experience in market research, financial analysis, and strategic business development, I bring a unique perspective to software development. 
+Ex-Business Consultant and Financial Planner transitioning into a full stack developer role after completing Sigma School Full Stack Web Development Bootcamp. Over 5 years of experience in creating tailored solutions for diverse clients, from SMEs to high-net-worth individuals. Hands-on project experience building both the front-end and back-end of web apps
 
 <h3>🌱 Current Focus </h3>
 <li>Building dynamic web applications.</li> 
