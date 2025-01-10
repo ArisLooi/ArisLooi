@@ -5,7 +5,6 @@ Ex-Business Consultant and Financial Planner transitioning into a full stack dev
 
 <h3>🌱 Current Focus </h3>
 <li>Building dynamic web applications.</li> 
-<li>Mastering responsive design and efficient coding practices.</li> 
 <li>Exploring how tech can streamline financial planning and decision-making.</li> 
 
 <!--- -- Skills Section ----- -->
